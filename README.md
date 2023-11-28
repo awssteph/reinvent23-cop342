@@ -15,3 +15,5 @@ Are you curious about the breakdown of your AWS Savings Plans discounts per acco
 Change ${table} to your CUR name
 Change ${date range} to your dates e.g. month = '10' and year = '2023'
 On Finance Change resource_tags_user_environment to your tag
+
+Video here: https://youtu.be/dKfMfnLwQ30
